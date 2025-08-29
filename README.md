@@ -8,20 +8,6 @@ This project demonstrates the ability to clean, analyze, and visualize data to e
 - `data/` → dataset CSV (Superstore.csv)
 - `images/` → plots generated during analysis
 
-## Preview of Analysis
-
-### Top Products
-![Top Products](images/top_products.png)
-
-### Sales by Category
-![Category Sales](images/category_sales.png)
-
-### Profit by Region
-![Profit by Region](images/profit_by_region.png)
-
-### Discounts vs Profit
-![Discount vs Profit](images/discount_vs_profit.png)
-
 ---
 
 ## Key Insights
@@ -45,7 +31,7 @@ This project demonstrates the ability to clean, analyze, and visualize data to e
 
 ## Explore the Notebook
 
-[Open Superstore EDA Notebook](notebook/superstore_eda.ipynb)
+[Open Superstore EDA Notebook](notebook/EDA_superstore.ipynb)
 
 ---
 
